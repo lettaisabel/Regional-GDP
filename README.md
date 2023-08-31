@@ -1,5 +1,5 @@
 # Regional-GDP
-A UC Berkeley ECON148: Data Science for Economists project
+A UC Berkeley **ECON148: Data Science for Economists** project
 
 ## Regional Heterogeneity: Varying Economic Performance in US Counties
 In this project, we aim to examine economic performance at the county level, utilizing real Gross Domestic Product (GDP) data spanning the last twenty years. While GDP is predominantly examined as a national macroeconomic metric, regional heterogeneity also play a significant role in shaping economic growth and business cycle fluctuations. To delve into these regional variations in economic performance, particularly during economic recessions, we will employ a dataset focused on county-level real GDPs, sourced from the Bureau of Economic Analysis (BEA).
